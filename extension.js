@@ -23,6 +23,7 @@ const UPDATE_INTERVAL = 5000;
 const Timezones = [
     'UTC',
     'America/Los_Angeles',
+    'Asia/Shanghai',
     'Australia/Adelaide',
     'Australia/Perth',
     'Australia/Melbourne',
